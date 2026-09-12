@@ -1,0 +1,13 @@
+supplier_id,supplier_name,region,target_lead_days,unit_cost_multiplier
+S001,Apex Components,North,5,0.879
+S002,BlueRiver Supply,South,14,0.895
+S003,Crest Industrial,East,5,0.941
+S004,Delta Goods,West,5,0.927
+S005,Evergreen Materials,Central,14,0.992
+S006,Falcon Wholesale,North,12,0.987
+S007,Granite Supply,South,7,0.904
+S008,Harbor Parts,East,10,1.065
+S009,Indigo Manufacturing,West,12,0.915
+S010,Juniper Imports,Central,12,1.11
+S011,Keystone Distribution,North,12,1.021
+S012,Lumen Products,South,10,1.001
